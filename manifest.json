@@ -1,0 +1,13 @@
+{
+    "name" : "Random word generator",
+    "version": "1.0.0",
+    "description": "returns random words",
+    "manifest_version": 3,
+    "author": "Racnerev",
+    "action": {
+        "default_popup":"index.html",
+        "default_title":"Random text"
+
+    }
+
+}
